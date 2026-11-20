@@ -2,7 +2,7 @@
 
 **Full-stack web & mobile developer · DevOps**
 
-I build business applications end to end, from the data model to the interface, and add AI features with Google Gemini and Claude. Based in Côte d'Ivoire, open to remote roles and to opportunities in Lebanon.
+I build business applications end to end, from the data model to the interface, and add AI features with Google Gemini and Claude. Based in Côte d'Ivoire and relocating to Lebanon in January 2027: open to remote roles and to on-site positions in Lebanon.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussein_Zeidan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-zeidan-8924a2450/)
 
