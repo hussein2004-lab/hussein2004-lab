@@ -43,6 +43,6 @@ Each shop presents and sells its own products, with seller and admin dashboards,
 ## Education & certifications
 
 - **Bachelor's degree (Licence, Bac+3) in Network & Software Engineering, DevOps track** · Pigier Côte d'Ivoire · 2022 – 2025
-- **14 certifications** (2023 – 2026), including The Web Developer Bootcamp 2026, The Complete Claude Code & Claude Cowork Masterclass, Claude 101 (Anthropic), Master UML and Microsoft Office Specialist.
+- **16 certifications** (2023 – 2026), including The Web Developer Bootcamp 2026, The Complete Claude Code & Claude Cowork Masterclass, Claude 101 (Anthropic), Claude Design fundamentals, Master UML and Microsoft Office Specialist.
 
 **Languages:** French, Arabic, English (fluent) · Spanish (basic)
