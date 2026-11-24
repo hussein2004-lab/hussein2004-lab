@@ -16,7 +16,7 @@ Customers describe a project or upload a photo, and a Gemini assistant suggests 
 Log meals by searching a food catalogue, describing them in plain English or photographing the plate. Gemini estimates calories and macros, and a dashboard tracks the daily goal.  
 `Next.js 15` `React 19` `TypeScript` `SQLite` `Tailwind CSS` `Gemini`
 
-**MultiShop** · Multi-vendor marketplace  
+**[MultiShop](https://github.com/hussein2004-lab/multishop)** · Multi-vendor marketplace  
 Each shop presents and sells its own products, with seller and admin dashboards, an AI shopping assistant, map-based delivery (Leaflet + OpenStreetMap) and a 7-language interface.  
 `Laravel 12` `MySQL` `Bootstrap 5`
 
